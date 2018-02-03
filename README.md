@@ -1,2 +1,4 @@
 # hello-world
-Ideas
+
+Let's git this hub going!
+          ONWARD!
